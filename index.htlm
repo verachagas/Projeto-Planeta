@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Planeta</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+
+<body>
+ <div class="cabecalho">
+    <div class="nave"><h2>Home</h2>
+    <h2>Sobre</h2>
+    <h2>Blog</h2>
+    <h2>Suporte</h2>
+    <h2>Contato</h2>
+</div>
+
+<div class="main">
+<div class="ladoesquerdo">
+    <div class="content">texto</div>
+    <div class="p">“Hello World!” Vamos aprender na prática</div>
+    <div class="p">Será que é facil fazer o HTML e CSS sem o FIGMA?</div>
+    <div class="p">Vamos testar isso agora, bora lá!</div>
+<div class="btns">
+    <div class="btn">
+        <h3>Vamos começar!</h3>
+        <div class="btn">
+            <h3>30 minutos</h3>
+        </div>
+    </div>
+</div>
+
+</div>
+
+<div class="ladodireito"></div>
+
+  </div>  
+</body>
+</html>
